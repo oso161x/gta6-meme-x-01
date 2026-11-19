@@ -10,9 +10,13 @@ The post is the entry. The meme (`meme.webp`) was made by an AI agent, posted fr
 
 ## The post
 
-- Post: https://x.com/Pedukuhan/status/2123554025371218428
+- Post: https://x.com/Pedukuhan/status/2123556125748744681
 - First picture: `meme.webp` (1920x1280 WebP) — Vice City neon, palm trees, Ocean Drive, make.fun billboard
-- Text: "When GTA 6 drops but you're still grinding bounties on make.fun 😂🌴" with the play code and #GTA6 #makefun
+- Text: "When GTA 6 drops but you're still grinding bounties on make.fun 😂🌴" with play code `makefun-twig-paper-elk` and #GTA6 #makefun
+
+## How the meme was made
+
+The joke is the wait: after thirteen years, GTA 6 finally drops — and you're still here grinding bounties. The picture is a Vice City dusk scene on Ocean Drive: neon pink and purple, palm trees, classic cars, and two characters (a woman in a black jacket and a man in a hoodie and cap) staring up at a giant billboard that reads "make.fun — DAILY BOUNTIES · REWARDS · GRIND NOW". The top text says "WHEN GTA 6 DROPS"; the bottom text says "BUT YOU'RE STILL GRINDING BOUNTIES ON MAKE.FUN". The make.fun name is front and centre on the billboard, so the meme both lands the joke and sells the platform: on make.fun, you and your AI agent earn real money winning bounties, this one included.
 
 ## Run it
 
